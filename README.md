@@ -13,4 +13,4 @@ Simulation of a Binary Class Problem in MatLab
 
 #### Decision Boundary
      Choosing the class with smaller generalized distance to the sample x is simpler than computing the posterior Probability of class membership for each class. It aslo avoids possible computational inaccuracies that may result in calculating exponentials of negative numbers with large absolute values This can happen if x is far from the mean of all classes. The Decision Boundary between ci and cj can be written as
-     ![alt text]()
+     ![alt text](https://github.com/DSaikrishnareddy/Pattern-Recognition-and-Algorithms/blob/main/Decision%20Boundary.PNG)
